@@ -1,3 +1,5 @@
+Project link
+https://onedrive.live.com/edit.aspx?resid=7774BCA88B2D423E!779&ithint=file%2cxlsx&authkey=!AOzfH867Moi1pXY
 # ATLIQO-TELECOM-BUSINESS-INSIGHTS
 Provide Insights to Executive team in Telecom Domain
 
